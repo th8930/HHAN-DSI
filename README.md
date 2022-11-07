@@ -1,1 +1,2 @@
 # HHAN-DSI
+Early detection of potential side effects (SE) is a critical and challenging task for drug discovery and patient care. However, using in-vitro or in-vivo preclinical models to detect potential SEs is not cost-effective due to the limitations of clinical trial analyses. Here, we developed a biologically informed graph representation model HHAN-DSI, to predict potential SEs of new drugs before market release and to elucidate the critical mechanism of biological actions.
