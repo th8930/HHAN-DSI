@@ -1,4 +1,4 @@
-# Graph Representation Learning for Side Effect Predictions
+# Explainable drug side effect prediction via biologically informed graph neural network
 
 This repository contains a graph representation learning model for predicting side effects of drugs based on multimodal interactions among different molecule types. The model is implemented using Python and PyTorch, and it uses a graph convolutional neural network (GCN) to learn embeddings for each molecule in the dataset.
 
